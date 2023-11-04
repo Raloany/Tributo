@@ -1,0 +1,36 @@
+body {
+    margin: 10px;
+    background-color: #FF69B4;
+    font-family: Playpen Sans;
+    
+}
+
+ul {
+    display: flex;
+    flex-direction: column;
+}
+
+.fotos {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 15px;
+}
+
+h2 {
+    display: flex;
+    justify-content: center;
+}
+
+.moldura {
+    width: 300px;
+    border: 8px solid white;
+    padding: 10px;
+    padding-bottom: 80px;
+    background: white;
+    box-shadow: 1px 1px 5px;
+}
+
+p {
+    display: flex;
+    justify-content: center;
+}
